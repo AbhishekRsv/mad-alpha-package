@@ -22,5 +22,9 @@
   "dependencies": {
     "jest": "^28.1.0",
     "react": "^18.1.0"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "mocha": "^10.0.0"
   }
 }
